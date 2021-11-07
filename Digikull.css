@@ -1,0 +1,14 @@
+body {
+  background: greenyellow;
+}
+table {
+  border-collapse: collapse;
+  font: xx-large;
+  font-style: italic;
+  color: black;
+}
+th,
+td {
+  border: 30px solid goldenrod;
+  padding: 55px 50px;
+}
